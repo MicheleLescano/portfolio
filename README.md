@@ -4,6 +4,8 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 
 ## 🖥️ Demonstração
 
+![image](portfolio.png)
+
 Você pode acessar o portfólio online em: [Michele Lescano - Portfólio](#)
 
 ## 🛠️ Tecnologias Utilizadas
