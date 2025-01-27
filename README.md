@@ -7,7 +7,7 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 ![image](portfolio.png)
 
 Você pode acessar o portfólio online em: [Michele Lescano - Portfólio](portfolio-three-swart-40.vercel.app)
-
+- portfolio-three-swart-40.vercel.app 
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**
