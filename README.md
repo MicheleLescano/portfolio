@@ -10,7 +10,6 @@ Você pode acessar o portfólio online em: [Michele Lescano - Portfólio](#)
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 
 ## 📂 Estrutura do Projeto
 
