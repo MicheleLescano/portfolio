@@ -4,8 +4,6 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 
 ## 🖥️ Demonstração
 
-
-
 <p align="left">
   <img src="assets/IMG_20230714_085434_231.jpg" alt="Foto da DEV Michele Lescano" width="100">
 </p>
