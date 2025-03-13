@@ -4,7 +4,7 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 
 ## 🖥️ Demonstração
 
-![image](IMG_20230714_085434_231.jpg)
+![image](portifolio.png)
 
 Você pode acessar o portfólio online em: [Michele Lescano - Portfólio](portfolio-three-swart-40.vercel.app)
 
