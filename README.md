@@ -4,8 +4,11 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 
 ## 🖥️ Demonstração
 
-![image](assets/IMG_20230714_085434_231.jpg)
-<img src="assets/IMG 20230714 085434 231.jpg" alt="Foto da DEV Michele Lescano " width="300">
+
+
+<p align="center">
+  <img src="assets/IMG_20230714_085434_231.jpg" alt="Foto da DEV Michele Lescano" width="50">
+</p>
 
 Você pode acessar o portfólio online em: [Michele Lescano - Portfólio](https://MicheleLescano.github.io/portfolio/) 
 
