@@ -6,7 +6,7 @@ Bem-vindo(a) ao repositório do meu portfólio pessoal! Este projeto foi desenvo
 
 ![image](portifolio.png)
 
-Você pode acessar o portfólio online em: [Michele Lescano - Portfólio](https://michelelescano.github.io/portifolio/) 
+Você pode acessar o portfólio online em: [Michele Lescano - Portfólio](https://MicheleLescano.github.io/portfolio/) 
 
 ## 🛠️ Tecnologias Utilizadas
 
